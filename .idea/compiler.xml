@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Amazon" />
         <module name="Common" />
+        <module name="Facebook" />
       </profile>
     </annotationProcessing>
   </component>
